@@ -1,6 +1,6 @@
 Package: pcSteiner
 Type: Package
-Version: 1.0.0
+Version: 1.0.0.1
 Date: 2020-08-21
 Title: Convenient Tool for Solving the Prize-Collecting Steiner Tree
         Problem
@@ -22,5 +22,5 @@ Repository: CRAN
 Encoding: UTF-8
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-08-26 12:36:50 UTC; krashkov
-Date/Publication: 2020-08-31 10:00:06 UTC
+Packaged: 2022-05-23 07:35:04 UTC; hornik
+Date/Publication: 2022-05-23 08:02:24 UTC
